@@ -3,4 +3,5 @@
 📩 Let’s Connect! I’m open to exploring new opportunities, collaborations, or simply networking within the tech community. Feel free to reach out to discuss technology, development insights, or potential projects!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-switha-mitta/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-switha-mitta/)
+
