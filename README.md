@@ -6,5 +6,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-switha-mitta-473208a0/)
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-%23323330.svg?style=for-the-badge&logo=Apex&logoColor=%23F7DF1E) ![Visualforce](https://img.shields.io/badge/Visualforce-%23007ACC.svg?style=for-the-badge&logo=Visualforce&logoColor=white) ![SOQL](https://img.shields.io/badge/SOQL-%230072C6.svg?style=for-the-badge&logo=SOQL&logoColor=white) ![SOSL](https://img.shields.io/badge/SOSL%20pages-121013?style=for-the-badge&logo=SOSL&logoColor=white) ![LightningWebComponents](https://img.shields.io/badge/LightningWebComponents-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Salesforce APIs](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Salesforce Lightning Design System (SLDS)](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Salesforce DX (Developer Experience)](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Data Tools](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Salesforce Flow](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![JAVA](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Spring MVC](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Hibernate](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Sql](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![HTML](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white)
+![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-ff9f1c?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOSL](https://img.shields.io/badge/SOSL-4CAF50?style=for-the-badge&logo=salesforce&logoColor=white)
+![Lightning Web Components](https://img.shields.io/badge/LWC-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce APIs](https://img.shields.io/badge/Salesforce%20APIs-00A1E0?style=for-the-badge&logo=api&logoColor=white)
+![Salesforce Lightning Design System (SLDS)](https://img.shields.io/badge/SLDS-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)
+![Data Tools](https://img.shields.io/badge/Data%20Tools-FF6C37?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce Flow](https://img.shields.io/badge/Salesforce%20Flow-FF6C37?style=for-the-badge&logo=salesforce&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+
+
 
